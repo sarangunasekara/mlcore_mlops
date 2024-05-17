@@ -1,0 +1,8 @@
+# For code linting
+flake8==6.0.0
+
+# For test coverage
+coverage==6.5.0
+
+# For testing
+pytest==7.1.2
